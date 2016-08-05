@@ -1,0 +1,27 @@
+_repo: '----_7216'
+_version: 0.0.1
+alternative_title: Gongsun Longzi
+creator:
+  author:
+    agent_name: Gongsun, Long, 3rd cent. B.C.
+    aliases:
+    - Gongsun Longzi
+    - 公孫龍子
+    gutenberg_agent_id: '2378'
+    url: http://www.gutenberg.org/2009/agents/2378
+    wikipedia: http://en.wikipedia.org/wiki/Gongsun_Longzi
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7216'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'School of logicians (Chinese philosophy)'
+- !lcc 'B'
+- GITenberg
+title: 公孫龍子
+url: http://www.gutenberg.org/ebooks/7216
